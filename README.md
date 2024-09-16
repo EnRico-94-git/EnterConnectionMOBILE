@@ -1,7 +1,7 @@
 # EnterConnectionMOBILE
 O projeto é um aplicativo desenvolvido com o objetivo de indicar empresas com grandes chances de sucesso na área de consultoria da Plusoft. O aplicativo oferece uma interface intuitiva com funcionalidades como listagem de empresas, visualização de detalhes e gerenciamento de tarefas relacionadas às empresas consultadas.
 
-*Funcionalidades Principais
+-- Funcionalidades Principais:
 - Listagem de Empresas: Visualize empresas com maior potencial de sucesso na área de consultoria.
 - Detalhamento das Empresas: Acesso a informações detalhadas de cada empresa.
 - Edição de Tarefas: Permite editar e gerenciar tarefas associadas às empresas.

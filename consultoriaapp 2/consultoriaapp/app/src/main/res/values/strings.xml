@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsultoriaApp</string>
+    <string name="title_main">Lista de Empresas</string>
+    <string name="title_detail">Detalhes da Empresa</string>
+    <string name="title_edit">Editar Empresa</string>
+    <string name="title_settings">Configurações</string>
+    <string name="title_profile">Perfil do Usuário</string>
+
+    <string name="button_save">Salvar</string>
+    <string name="button_back">Voltar</string>
+
+    <string name="company_details">Aqui estão os detalhes da empresa selecionada.</string>
+</resources>
